@@ -77,7 +77,7 @@ I used GitHub Copilot Agent to inspect the CineLog codebase, assist with the ser
 Git Log Screenshot
 The image below is a terminal-style rendering of the actual `git log --oneline` output captured after the code history was finalized and before this documentation commit. This container has no desktop display or screenshot utility, so it is not a literal operating-system screen capture. If the assignment requires a native screen capture, replace it with one before submission.
 
-![Terminal-style rendering of actual git log --oneline output](git-log-oneline.svg)
+![Terminal-style rendering of actual git log --oneline output]![Git Commit History Screenshot](git-log-screenshot.png)
 Submission Status
 - Working branch: `feature/watchlist`, rebased onto `upstream/main` at `57ec3f9`.
 - Local backup refs: `feature-watchlist-backup-20261029` (before rebase) and `feature-watchlist-rebased-backup-20261029` (before commit-message rewrite).
